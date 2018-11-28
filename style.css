@@ -5,9 +5,5 @@ body{
 }
 .main-grid{
     display:grid;
-    grid-template-columns:50% 50%;
-    grid-template-rows: repeat(2,minmax(50%,300px));
-    
-    border:1px solid red;
     
 } 
