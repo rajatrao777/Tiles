@@ -6,7 +6,7 @@ body,html{
 }
 .main-grid{
     
-    background-color: blue;
+    background-color: violet;
     /* top: 0;
     left: 0; */
     display: grid;
